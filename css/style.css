@@ -1,10 +1,11 @@
 body{
   margin: 0px;
   padding: 0px;
-  background-image: url(https://hanan1337.github.io/assets/hannn.jpg), no-repeat;
+  background: #000000/*url(https://hanan1337.github.io/assets/hannn.jpg)*/, no-repeat;
   background-size: 100%;
-
+  background-attachment: fixed;
 font-family: 'Big Shoulders Stencil Text', cursive;
+  
 }
 .box {
   width: 450px;
