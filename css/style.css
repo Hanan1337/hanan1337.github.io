@@ -5,8 +5,9 @@ body {
   background-size: 100%;
   background-attachment: fixed;
 font-family: 'Big Shoulders Stencil Text', cursive;
-  
+
 }
+
 .box {
   width: 450px;
   background: rgba(0, 0, 0, 0.7);
@@ -39,14 +40,10 @@ font-family: 'Big Shoulders Stencil Text', cursive;
 }
 
 .box p {
-  text-align: center;body{
-  margin: 0px;
-  padding: 0px;
-  background: url(https://raw.githubusercontent.com/hanan1337/hanan1337.github.io/main/assets/bgr.jpg), no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  font-family: 'Big Shoulders Stencil Text', cursive;
+  text-align: center;
+  font-size: 19px;
 }
+
 .box {
   width: 450px;
   background: rgba(0, 0, 0, 0.7);
