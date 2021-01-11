@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   padding: 0px;
-  background: #000000/*url(https://hanan1337.github.io/assets/hannn.jpg)*/;
+  background: url(https://hanan1337.github.io/assets/hannn.jpg);
   background-size: 100%;
   background-attachment: fixed;
 font-family: 'Big Shoulders Stencil Text', cursive;
@@ -100,7 +100,7 @@ ul {
 
 .box li a:hover {
   color: #4b4d4b;
-}
+
   font-size: 19px;
 }
 
